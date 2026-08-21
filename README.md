@@ -129,8 +129,8 @@ Después de hacer un `git push` a `main`, en la pestaña **Actions** de GitHub d
 
 Repositorio público:
 
-`https://github.com/TU_USUARIO/devops-final-cicd`
+`https://github.com/DiegoGJ-ai/devops-final-cicd`
 
 Aplicación desplegada:
 
-`https://TU-SERVICIO.onrender.com`
+`https://devops-final-cicd-7xpc.onrender.com/`
